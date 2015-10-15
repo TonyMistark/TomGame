@@ -15,8 +15,17 @@
 @implementation AppDelegate
 
 
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    // Override point for customization after application launch.
+//- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+//    // Override point for customization after application launch.
+//    UIScreen *screen = [UIScreen mainScreen];
+//    self.window = [[UIWindow alloc]initWithFrame:screen.bounds];
+//    
+//    
+//    return YES;
+//}
+- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{
+    
     return YES;
 }
 
